@@ -1,17 +1,17 @@
 # Maxi Ruti Park
 
-I am self taught web developer from Argentina. I am currently living in South Korea.
+I am self taught web developer from Argentina. I am currently living in South Korea.  
 I am currently learning React js
 
 ## My Projects
-- :low_brightness: Here I share my projects [HERE](https://myfirstwebsite1-0-4.netlify.app/) 
-- :low_brightness: Check my repotitories [HERE](https://github.com/maxrpark?tab=repositories) 
+:low_brightness: Here I share my projects [HERE](https://myfirstwebsite1-0-4.netlify.app/)  
+:low_brightness: Check my repotitories [HERE](https://github.com/maxrpark?tab=repositories)  
 ## Skills
 
-* :computer: JS
-* :computer: HTML
-* :computer:CSS
-* :computer:SASS
+:computer: JS  
+:computer: HTML  
+:computer:CSS  
+:computer:SASS  
 
 ## Me Stats
 
