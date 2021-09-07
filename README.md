@@ -4,7 +4,7 @@ I am self taught web developer from Argentina, currently living in South Korea.
 These days I am learning Vue.js
 
 ## My Projects
-:low_brightness: Here I share my projects [HERE](https://myfirstwebsite1-0-4.netlify.app/)  
+:low_brightness: Here I share my projects [HERE](https://my-portfolio-blog-website.netlify.app/)  
 :low_brightness: Check my repotitories [HERE](https://github.com/maxrpark?tab=repositories)  
 ## Skills
 
@@ -12,14 +12,14 @@ These days I am learning Vue.js
 :computer: HTML  
 :computer:CSS  
 :computer:SASS  
-:Vue.js
+:computer:Vue.js
 
 ## Me Stats
 
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxrpark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxrpark)](https://my-portfolio-blog-website.netlify.app/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxrpark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxrpark)](https://my-portfolio-blog-website.netlify.app/)
 
 ## Follow Me
 
