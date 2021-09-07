@@ -12,6 +12,7 @@ These days I am learning Vue.js
 :computer: HTML  
 :computer:CSS  
 :computer:SASS  
+:Vue.js
 
 ## Me Stats
 
