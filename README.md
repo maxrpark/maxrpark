@@ -13,6 +13,7 @@ These days I am learning Django. Junior Developer at NOLGONG
 :computer:CSS  
 :computer:SASS  
 :computer:Vue.js
+:computer:Django
 
 ## Me Stats
 
