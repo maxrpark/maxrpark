@@ -1,7 +1,7 @@
 # Maxi Ruti Park
 
-I am self taught web developer from Argentina, currently living in South Korea.  
-These days I am learning Django and React.js. Junior Developer at NOLGONG
+I am self taught web developer from Argentina, currently living in South Korea, working at NOLGONG.  
+These days I am learning Node.js.
 
 ## My Projects
 :low_brightness: Here I share my projects [HERE](https://my-portfolio-blog-website.netlify.app/)  
